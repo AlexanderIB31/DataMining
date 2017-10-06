@@ -1,2 +1,2 @@
 # DataMining
-Technosphere course of data mining
+This repo contains home works and other material related of data mining in the TechnoSphere Mail.Group 
