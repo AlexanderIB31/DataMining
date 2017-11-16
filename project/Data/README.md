@@ -1,5 +1,5 @@
 # Данные
-https://drive.google.com/open?id=1CszqNRFqnJBA58a5S-_8e8k6ehfiwpJW
+https://drive.google.com/open?id=1EQ5aSJD04bUHmZBIAy7aDizxZIA6cdVj
 
 Данные хранятся в `csv` таблице. В таблице есть 6 столбцов:
 
